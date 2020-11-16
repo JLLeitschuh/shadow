@@ -7,7 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^0.14.2",
-    "prismjs": "^1.15.0"
+    "prismjs": "^1.21.0"
   },
   "scripts": {
     "build": "vuepress build src/docs",
